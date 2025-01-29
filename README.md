@@ -1,2 +1,2 @@
 # Java-Projects-
-these projects are related to the java course
+These projects are related to the java course
